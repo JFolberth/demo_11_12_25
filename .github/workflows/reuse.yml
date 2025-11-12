@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
         who-to-greet:
-          description: 'Environment to deploy to'
+          description: 'Who to say hello to'
           type: string
           required: true
 
