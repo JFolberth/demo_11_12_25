@@ -1,6 +1,6 @@
 # Cheat Sheet
 
-This document contains an overview of fundamental concepts and terminology, you can use this as a reference book if you get lost in the terminology along the way.
+This document contains an overview of fundamental concepts and terminology, brother. You can use this as a reference book if you get lost in the terminology along the way.
 
 ## Github actions high level components
 
@@ -26,7 +26,9 @@ This document contains an overview of fundamental concepts and terminology, you 
 
 See also:
 https://docs.github.com/en/actions/using-workflows/workflow-commands-for-github-actions
+
 Actions can communicate with the runner machine to set environment variables, output values used by other actions, add debug messages to the output logs, and other tasks.
+
 Most workflow commands use the echo command in a specific format, while others are invoked by writing to a file. 
 
 Example echo workflow command:
